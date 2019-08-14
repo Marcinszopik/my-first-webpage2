@@ -1,0 +1,42 @@
+body {
+  background-color: #D3D3D3;
+  font-family: "Georgia";
+}
+
+a:link {
+  color: Black
+}
+
+a:visited {
+  color: Black
+}
+
+a:hover {
+  color: #464646
+}
+
+a:active {
+  color: Black
+}
+
+
+h1 {
+  color: #464646;
+  text-align: center;
+}
+
+h2 {
+    color: grey;
+}
+
+h3 {
+    color: grey;
+}
+
+ p {
+   font-style: italic;
+ }
+
+ol {
+  line-height: 150%;
+}
