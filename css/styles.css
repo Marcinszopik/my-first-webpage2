@@ -1,5 +1,5 @@
 body {
-  background-color: #D3D3D3;
+  background-color: #C70039;
   font-family: "Georgia";
 }
 
@@ -8,11 +8,11 @@ a:link {
 }
 
 a:visited {
-  color: Black
+  color: White
 }
 
 a:hover {
-  color: #464646
+  color: #FFC300
 }
 
 a:active {
